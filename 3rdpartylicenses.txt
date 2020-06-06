@@ -29,6 +29,9 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/localize
 MIT
 
@@ -36,6 +39,9 @@ MIT
 MIT
 
 @angular/router
+MIT
+
+@ng-select/ng-select
 MIT
 
 algoliasearch
